@@ -3,7 +3,7 @@
 ### 1.Platform
       LINUX 16.04, MATLAB 2017a
 ### 2.two ways to use this solver.
-#### 2.1 First--edit the file 'dividein2.sh'. One example is as follow:
+#### 2.1 edit the file 'dividein2.sh'
       Located to line 3:change the filename to yours. after Athe run is complete, you can get a file 'result.csv', which includs the reuslt. 
       Such as: uf20-01.cnf 20 91 SATISFIABLE 8 28s(8 means the number of solutions)
 #### 2.2 Step by step
